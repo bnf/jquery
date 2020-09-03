@@ -367,6 +367,7 @@ module.exports = function( grunt ) {
 		"eslint:dev",
 		"build:*:*",
 		"amd",
+		"esm",
 		"uglify",
 		"remove_map_comment",
 		"dist:*",
